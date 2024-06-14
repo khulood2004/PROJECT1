@@ -46,3 +46,12 @@ I learned to use the switch statement  for working with different cases. I also 
 If your project has a lot of features consider adding a "Features" section and listing them here 
 
 My project stands out because the code is clear and efficient. I used functions and methods to keep the logic well-organized. It's also designed to easily add new features or cases.
+
+Features: 
+
+-Effective siwtch usage 
+
+-Straightforward and effective code
+
+-Functions and methods 
+
